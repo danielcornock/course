@@ -23,7 +23,7 @@ if (result == true) {
 
 var name = 'Daniel';
 var age = 12;
-var isGay = false;
+var isHappy = false;
 var favouriteFoods = ['pizza', 'chocolate']; // This is a 'list' or an 'array' of strings;
 
 // Creating an object
@@ -31,7 +31,7 @@ var favouriteFoods = ['pizza', 'chocolate']; // This is a 'list' or an 'array' o
 var daniel = {
   name: 'Daniel',
   age: 24,
-  isGay: false,
+  isHappy: false,
   favouriteFoods: ['pizza', 'chocolate']
 };
 
@@ -47,7 +47,7 @@ var ollie = {
     lastName: 'Stiles'
   },
   age: 26,
-  isGay: false
+  isHappy: false
 };
 
 // ----- Looping ----- //
